@@ -1,0 +1,2 @@
+# Detecting-depression-in-tweets
+Developed a model to analyze Twitter data to detect any factors that may reflect the depression of relevant Twitter users. ➢ Implemented the model using CNN+LSTM and compared the accuracy with traditional machine learning algorithms such as Logistic Regression, KNN, SVM, and Decision Trees. Applied the trained model on a dataset of COVID-19 related tweets to detect signs of depression.
